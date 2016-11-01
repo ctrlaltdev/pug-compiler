@@ -1,22 +1,15 @@
 {
-  "name": "pugserver",
-  "description": "a dynamic pug server",
+  "name": "pugcompiler",
+  "description": "a pug compiler",
   "version": "0.0.1",
-  "bin": "./pug-server.js",
+  "bin": "./pug-compiler.js",
   "preferGlobal": "true",
-  "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
-  "contributors": [
-    {
-      "name": "Sascha Void",
-      "email": "sascha-@outlook.com"
-    }
-  ],
+  "author": "Sascha Void <sascha-@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SaschaVoid/pug-server.git"
+    "url": "https://github.com/SaschaVoid/pug-compiler.git"
   },
   "dependencies": {
-    "node-static": "^0.7.9",
     "pug": "^2.0.0-beta6"
   },
   "license": "Beerware"

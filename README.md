@@ -1,22 +1,23 @@
-### Pug Server
-Basic [`pug`](https://pugjs.org) file server. Ideal for building local prototypes apart from any application. All other files are served statically as they usually would.
+### Pug Compiler
+A simple [`pug`](https://pugjs.org) file compiler. Tired of writing markup the long way? Write your pug, compile to html, and voilà.
 
 installation
 ``` sh
-npm install -g pugserver
+npm install -g pugcompiler
 ```
 
 create a folder
 
     + myfolder/
-      - index.pug
+      - pug/
+        - index.pug
       - example.css
       - example.js
 
 usage
 ``` sh
 cd myfolder
-pug-server .
+pugcompiler .
 ```
 
-open your browser to [http://localhost:8080/index.pug](http://localhost:8080/index.pug)
+And voilà. your html is in place.
