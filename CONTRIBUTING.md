@@ -14,7 +14,8 @@ And finally, to ensure the safety of the rest of humanity:
 
     git checkout develop
 
-Do your magic, but please respect a clean git flow, here are the settings I use:
+Do your magic, but please respect a clean [git flow][gflow], here are the settings I use:
+[gflow]: https://github.com/SaschaVoid/pug-compiler/blob/master/GFLOW.md
 - branch for production: master (so don't use that)
 - branch for development: develop (please use that)
 - feature branch prefix: feature/
