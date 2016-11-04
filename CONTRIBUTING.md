@@ -4,17 +4,18 @@ If you're crazy enough to voluntarily contribute to this, help yourself:
 
 Fork, then clone the repo:
 
-    `git clone git@github.com:SaschaVoid/pug-compiler.git`
+    git clone git@github.com:SaschaVoid/pug-compiler.git
 
 You'll need node and npm, when both installed:
 
-    `npm install`
+    npm install
 
 And finally, to ensure the safety of the rest of humanity:
 
-    `git checkout develop`
+    git checkout develop
 
-Do your magic, but please respect a clean git flow, here are the settings I use:
+Do your magic, but please respect a clean [git flow][gflow], here are the settings I use:
+[gflow]: https://github.com/SaschaVoid/pug-compiler/blob/master/GFLOW.md
 - branch for production: master (so don't use that)
 - branch for development: develop (please use that)
 - feature branch prefix: feature/
