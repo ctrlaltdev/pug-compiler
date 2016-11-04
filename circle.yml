@@ -1,0 +1,9 @@
+test:
+  override:
+    - mocha test --reporter mocha-junit-reporter:
+        environment:
+          MOCHA_FILE: $CIRCLE_TEST_REPORTS/junit/test-results.xml
+notify:
+  webhooks:
+    # gitter hook
+    - url: https://webhooks.gitter.im/e/400d51e0091b543b6346
