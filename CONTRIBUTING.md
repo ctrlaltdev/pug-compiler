@@ -4,9 +4,9 @@ If you're crazy enough to voluntarily contribute to this, help yourself:
 
 Fork, then clone the repo:
 
-    git clone git@github.com:SaschaVoid/pug-compiler.git
+    git clone git@github.com:implose/pug-compiler.git
 
-You'll need node and npm, when both installed:
+You'll need node and npm (or yarn), when both installed:
 
     npm install
 
@@ -15,7 +15,7 @@ And finally, to ensure the safety of the rest of humanity:
     git checkout develop
 
 Do your magic, but please respect a clean [git flow][gflow], here are the settings I use:
-[gflow]: https://github.com/SaschaVoid/pug-compiler/blob/master/GFLOW.md
+[gflow]: https://github.com/implose/pug-compiler/blob/master/GFLOW.md
 - branch for production: master (so don't use that)
 - branch for development: develop (please use that)
 - feature branch prefix: feature/
@@ -23,11 +23,11 @@ Do your magic, but please respect a clean [git flow][gflow], here are the settin
 - release branch prefix: release/
 - hotfix branch prefix: hotfix/
 - support branch prefix: support/
-- version tag prefix: v
+- version tag prefix: N/A
 
 Push to your fork and [submit a pull request][pr].
 
-[pr]: https://github.com/SaschaVoid/pug-compiler/compare/
+[pr]: https://github.com/implose/pug-compiler/compare/
 
 At this point you're waiting on me. And 2 possibilities: Cthulhu awakes and I'll never review your PR, or I do someday and accept it / request changes / curse it during a black ritual.
 

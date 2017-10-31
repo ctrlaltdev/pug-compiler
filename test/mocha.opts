@@ -1,4 +1,0 @@
---require should
---reporter mocha-junit-reporter
---ui bdd
---recursive
