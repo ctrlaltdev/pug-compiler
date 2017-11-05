@@ -3,14 +3,14 @@
   "description": "a pug compiler",
   "version": "1.0.0",
   "bin": "./pugcompiler.js",
-  "preferGlobal": "true",
-  "author": "Yorick <yorick@implo.se>",
+  "preferGlobal": true,
+  "author": "Yorick <yorick@ctrlaltdelins.xyz>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/implose/pug-compiler.git"
+    "url": "https://github.com/ctrlaltdelins/pug-compiler.git"
   },
   "bugs": {
-    "url": "https://github.com/implose/pug-compiler/issues"
+    "url": "https://github.com/ctrlaltdelins/pug-compiler/issues"
   },
   "dependencies": {
     "minimist": "^1.2.0",
@@ -18,8 +18,7 @@
   },
   "main": "pugcompiler.js",
   "scripts": {
-    "start": "node pugcompiler.js",
-    "test": ""
+    "start": "node pugcompiler.js"
   },
   "license": "Beerware",
   "keywords": [
