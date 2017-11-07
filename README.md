@@ -1,7 +1,7 @@
 [![npm](https://img.shields.io/npm/v/pugcompiler.svg?style=flat-square)](https://www.npmjs.com/package/pugcompiler)
-[![licence](https://img.shields.io/npm/l/pugcompiler.svg?style=flat-square)](https://github.com/ctrlaltdelins/pug-compiler/blob/master/LICENCE.md)
-[![GitHub tag](https://img.shields.io/github/tag/ctrlaltdelins/pug-compiler.svg?style=flat-square)](https://github.com/ctrlaltdelins/pug-compiler/tags)
-[![GitHub release](https://img.shields.io/github/release/ctrlaltdelins/pug-compiler.svg?style=flat-square)](https://github.com/ctrlaltdelins/pug-compiler/releases)
+[![licence](https://img.shields.io/npm/l/pugcompiler.svg?style=flat-square)](https://github.com/ctrlaltdev/pug-compiler/blob/master/LICENCE.md)
+[![GitHub tag](https://img.shields.io/github/tag/ctrlaltdev/pug-compiler.svg?style=flat-square)](https://github.com/ctrlaltdev/pug-compiler/tags)
+[![GitHub release](https://img.shields.io/github/release/ctrlaltdev/pug-compiler.svg?style=flat-square)](https://github.com/ctrlaltdev/pug-compiler/releases)
 [![I love badges](https://img.shields.io/badge/I%20love-badges-FF00FF.svg?style=flat-square)](https://shields.io)
 
 ### Pug Compiler

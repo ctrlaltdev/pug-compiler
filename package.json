@@ -1,16 +1,16 @@
 {
   "name": "pugcompiler",
   "description": "a pug compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": "./pugcompiler.js",
   "preferGlobal": true,
-  "author": "Yorick <yorick@ctrlaltdelins.xyz>",
+  "author": "Yorick <yorick@ctrlaltdev.xyz>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ctrlaltdelins/pug-compiler.git"
+    "url": "https://github.com/ctrlaltdev/pug-compiler.git"
   },
   "bugs": {
-    "url": "https://github.com/ctrlaltdelins/pug-compiler/issues"
+    "url": "https://github.com/ctrlaltdev/pug-compiler/issues"
   },
   "dependencies": {
     "minimist": "^1.2.0",
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "node pugcompiler.js"
   },
-  "license": "Beerware",
+  "license": "MPL",
   "keywords": [
     "pug",
     "compile",
