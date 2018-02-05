@@ -4,6 +4,10 @@
 [![GitHub release](https://img.shields.io/github/release/ctrlaltdev/pug-compiler.svg?style=flat-square)](https://github.com/ctrlaltdev/pug-compiler/releases)
 [![I love badges](https://img.shields.io/badge/I%20love-badges-FF00FF.svg?style=flat-square)](https://shields.io)
 
+### Deprecated
+
+Pugjs has their own pug CLI that does that: https://github.com/pugjs/pug-cli / https://www.npmjs.com/package/pug-cli
+
 ### Pug Compiler
 A simple [`pug`](https://pugjs.org) file compiler. Tired of writing markup the long way? Write your pug, compile to html, and voilà.
 
